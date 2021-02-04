@@ -1,2 +1,2 @@
 # FFT-test
- First approch to predicht
+ First approch to predict....
